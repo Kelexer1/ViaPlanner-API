@@ -1,0 +1,1 @@
+All required data can be automatically scraped using the following scraper: https://github.com/Kelexer1/UofT-Scraper
